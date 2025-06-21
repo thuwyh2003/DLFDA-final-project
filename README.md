@@ -40,10 +40,10 @@ co-workers：wyh and wzy
 
 ---
 
-###total $R^2$
+### total $R^2$
 ![total](imgs/total_R2.png)
 
-###pred $R^2$ 
+### pred $R^2$ 
 ![pred $R^2$](imgs/pred_R2.png)
 
 ## Quick Start
