@@ -2,7 +2,7 @@
 
 ### 这是北京某高校2024-2025春季学期hxl和zw老师《深度学习与金融数据分析》课程的期末project，完成了对《Autoencoder Asset Pricing Models》的代码复现，并尝试引入了VAE模型，更好的完成资产定价任务。
 
-co-worker：wyh and wzy
+co-workers：wyh and wzy
 
 ## Implemented Models
 
@@ -40,6 +40,9 @@ co-worker：wyh and wzy
 
 ---
 
+
+![total](imgs/total_R2.png)
+
 ## Quick Start
 
 1. **Install Dependencies**
@@ -59,8 +62,6 @@ co-worker：wyh and wzy
    ```
 
    Outputs land in `results/` and graphics in `imgs/`.
-
----
 
 ## CA\_wyh at a Glance
 
