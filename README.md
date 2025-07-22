@@ -1,6 +1,6 @@
-# Reimplementation: Autoencoder Asset Pricing Models
+# Variational Autoencoder Asset Pricing Models
 
-### 这是北京某高校2024-2025春季学期hxl和zw老师《深度学习与金融数据分析》课程的期末project，完成了对《Autoencoder Asset Pricing Models》的代码复现，并尝试引入了VAE模型，更好的完成资产定价任务。
+### 这是北京某高校2024-2025春季学期hxl和zw老师《深度学习与金融数据分析》课程的期末project，首先完成了对《Autoencoder Asset Pricing Models》的代码复现，在此基础上尝试引入了VAE模型，更好的完成资产定价任务。
 
 co-workers：wyh and wzy
 
